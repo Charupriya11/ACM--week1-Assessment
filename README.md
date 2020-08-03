@@ -8,8 +8,6 @@ This Repository is to do the assignments and projects and to submit them.
 * Peyala Samarasimha Reddy
 * Prateek
 * Rohit Singh
-* Saikat
-* Salahuddin
 ***
 ### Week-1
 Week-1 is all about EDA (Exploratory Data Analysis), Data Storytelling, Data Visualization on
